@@ -8,7 +8,6 @@ This project is a minimal implementation of image super-resolution using a basic
 
 - Lightweight model (SRCNN architecture)
 - Trained on downsampled CIFAR-10 images
-- Easy to run and customize
 - Includes both training and testing scripts
 - Uses PyTorch and torchvision
 
